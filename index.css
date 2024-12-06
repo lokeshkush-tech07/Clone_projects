@@ -88,3 +88,27 @@ header{
     padding-top: 10px;
     line-height: 6px;
 }
+/* main section from here in the below*/
+.banner_cantainer{
+    margin: 40px 0;
+}
+.banner_image{
+    width: 100%;
+}
+.category_heading{
+    text-transform: uppercase;
+    color: #3e5152;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    margin: 50px 0 10px 30px;
+    max-height: 5em;
+    font-weight: 700;
+}
+.category_items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.sale_item{
+    width: 250px;
+}
